@@ -1,0 +1,435 @@
+community_id,top_10_mesh_terms
+n1-0,Amino Acid Sequence;Humans;Animals;Bacterial Proteins / genetics;Arabidopsis / genetics;Phylogeny;Molecular Sequence Data;Light;Mice;Protein Binding
+n1-157,Animals;Humans;Female;Male;Mice;Adult;Middle Aged;Adolescent;Young Adult;Aged
+n1-182,Humans;Animals;Male;Female;Mice;Adult;Middle Aged;Case-Control Studies;Cell Line;Gene Expression Profiling
+n1-307,"Animals;Humans;Mice;Male;Female;Mice, Inbred C57BL;Herpesvirus 8, Human / genetics;Disease Models, Animal;Cell Line, Tumor;Cell Line"
+n1-214,Humans;Female;Male;Animals;Adult;Middle Aged;Aged;Young Adult;Adolescent;Malaysia
+n1-393,Humans;Animals;Female;Male;Adult;Middle Aged;Mice;Phylogeny;Young Adult;China / epidemiology
+n1-6,"Animals;Phenotype;Genotype;Phylogeny;Humans;Chromosome Mapping;Triticum / genetics*;Plant Proteins / genetics;Gene Expression Regulation, Plant;Alleles"
+n1-321,Humans;Male;Animals;Female;Mice;Adult;Middle Aged;Aged;Adolescent;Young Adult
+n1-8,Humans;Female;Male;Adult;Middle Aged;Young Adult;Adolescent;Animals;Aged;Child
+n1-9,"Humans;Female;Male;Middle Aged;Adult;Aged;Animals;Aged, 80 and over;Young Adult;Mice"
+n1-262,"Humans;Female;Male;Animals;Adult;Middle Aged;Adolescent;Young Adult;Child;Child, Preschool"
+n1-171,"Humans;Animals;Male;Female;Mice;Adult;Middle Aged;Aged;Cell Line, Tumor;Cells, Cultured"
+n1-155,"Animals;Female;Male;Humans;Mice;Phenotype;Genotype;Polymorphism, Single Nucleotide;Dogs;Cattle"
+n1-13,Humans;Female;Male;Middle Aged;Adult;Aged;Risk Factors;Young Adult;Animals;Adolescent
+n1-14,"Humans;Animals;Female;Male;Mice;Adult;Middle Aged;Aged;Mice, Knockout;Mice, Inbred C57BL"
+n1-164,"Animals;Humans;Female;Male;Mice;Adult;Cells, Cultured;Drosophila Proteins / genetics;Middle Aged;Mice, Inbred C57BL"
+n1-118,Humans;Female;Male;Animals;Middle Aged;Adult;Mice;Aged;Young Adult;Adolescent
+n1-316,Animals;Humans;Caenorhabditis elegans Proteins / genetics;Caenorhabditis elegans / genetics;Male;Caenorhabditis elegans Proteins / genetics*;Mutation;Female;Caenorhabditis elegans Proteins / metabolism*;Caenorhabditis elegans / genetics*
+n1-18,Humans;Female;Male;Middle Aged;Adult;Animals;Aged;Mice;Young Adult;Adolescent
+n1-19,"Animals;Female;Male;Species Specificity;Humans;Phylogeny;Biological Evolution;Phenotype;Evolution, Molecular*;Larva / genetics"
+n1-346,Humans;Animals;Female;Male;Adult;Middle Aged;Mice;Adolescent;Young Adult;Aged
+n1-200,"Humans;Animals;Female;Male;Mice;Adult;Middle Aged;Phylogeny;Aged;Disease Models, Animal"
+n1-272,Humans;Female;Animals;Male;Middle Aged;Adult;Aged;Adolescent;Young Adult;Risk Factors
+n1-44,"Humans;Male;Female;Animals;Middle Aged;Aged;Mice;Adult;Aged, 80 and over;Young Adult"
+n1-416,Humans;Animals;Female;Male;Mice;Phylogeny;Adult;Middle Aged;Molecular Sequence Data;Base Sequence
+n1-288,"Animals;Humans;Mice;Male;Female;Mice, Inbred C57BL;Mice, Knockout;Middle Aged;Rats;Disease Models, Animal"
+n1-169,"Humans;Male;Female;Animals;Middle Aged;Aged;Adult;Mice;Aged, 80 and over;Young Adult"
+n1-86,"Animals;Humans;Female;Male;Mice;Adult;Pregnancy;Middle Aged;Mice, Inbred C57BL;Aged"
+n1-395,"Animals;Humans;Male;Female;Ecosystem;Ecosystem*;Geography;Fires*;Models, Theoretical;Forests*"
+n1-246,Humans;Male;Female;Middle Aged;Adult;Aged;Animals;Young Adult;Adolescent;Cross-Sectional Studies
+n1-91,Humans;Female;Animals;Male;Adult;Mice;Middle Aged;Aged;Prognosis;Cell Line
+n1-97,"Humans;Animals;Mice;Female;Male;Adult;Cells, Cultured;Amino Acid Sequence;Blotting, Western;Cell Line"
+n1-343,"Humans;Female;Animals;Male;Mice;Middle Aged;Adult;Aged;Cell Line, Tumor;Aged, 80 and over"
+n1-37,Humans;Female;Male;Animals;Mice;Adult;Middle Aged;Aged;Retrospective Studies;Infant
+n1-255,"Humans;Male;Female;Animals;Middle Aged;Adult;Aged;Mice;Young Adult;Aged, 80 and over"
+n1-64,Humans;Female;Male;Adult;Middle Aged;Animals;Aged;Young Adult;Mice;Adolescent
+n1-386,Humans;Male;Female;Adult;Middle Aged;Young Adult;Animals;Aged;Adolescent;Magnetic Resonance Imaging
+n1-95,"Animals;Phylogeny;Humans;Female;Male;Molecular Sequence Data;Gene Expression Regulation, Plant;Phenotype;Base Sequence;Plant Proteins / genetics"
+n1-42,"Humans;Animals;Mice;Female;Male;Cell Line, Tumor;Adult;Disease Models, Animal;Middle Aged;Signal Transduction"
+n1-404,"Animals;Humans;Mice;Female;Male;Mice, Inbred C57BL;Adult;Cell Line;Middle Aged;Mice, Knockout"
+n1-131,"Humans;Female;Male;Animals;Middle Aged;Aged;Adult;Mice;Aged, 80 and over;Mice, Inbred C57BL"
+n1-47,"Humans;Male;Female;Animals;Middle Aged;Aged;Mice;Adult;Aged, 80 and over;Retrospective Studies"
+n1-48,"Animals;Humans;Mice;Male;Female;Mice, Inbred C57BL;Mice, Knockout;Adult;Rats;Cell Proliferation"
+n1-52,Humans;Male;Animals;Female;Adult;Mice;Middle Aged;Young Adult;Aged;Adolescent
+n1-216,Humans;Male;Female;Adult;Young Adult;Middle Aged;Animals;Adolescent;Photic Stimulation;Aged
+n1-54,Humans;Male;Female;Animals;Adult;Middle Aged;Aged;Young Adult;Mice;Biomechanical Phenomena
+n1-51,"Animals;Humans;Mice;Male;Female;Cell Line;Signal Transduction;Adult;Mice, Inbred C57BL;Phenotype"
+n1-56,"Humans;Male;Animals;Female;Adult;Mice;Middle Aged;Young Adult;Computer Simulation;Models, Neurological*"
+n1-156,"Animals;Humans;Female;Male;Phylogeny;Species Specificity;Sequence Analysis, DNA;Base Sequence;Molecular Sequence Data;Mice"
+n1-59,"Animals;Humans;Mice;Female;Male;Molecular Sequence Data;Disease Models, Animal;Fungal Proteins / genetics;Mice, Inbred C57BL;Mutation"
+n1-62,"Animals;Humans;Female;Male;Middle Aged;Aged;Adult;Mice;Disease Models, Animal;Aged, 80 and over"
+n1-259,"Humans;Animals;Mice;Female;Male;Middle Aged;Cell Line;Cells, Cultured;Adult;Rats"
+n1-280,"Animals;Humans;Male;Female;Mice;Cells, Cultured;Temperature;Amino Acid Sequence;Molecular Sequence Data;Rats"
+n1-65,Humans;Male;Female;Middle Aged;Aged;Adult;Animals;Retrospective Studies;Mice;Risk Factors
+n1-121,"Animals;Humans;Male;Mice;Female;Rats;Cell Line;Signal Transduction;Models, Biological*;Middle Aged"
+n1-320,"Humans;Animals;Male;Female;Mice;Adult;Middle Aged;Aged;Cell Line, Tumor;Protein Binding"
+n1-70,"Humans;Animals;Phylogeny;Female;Male;Mice;RNA, Ribosomal, 16S / genetics;Molecular Sequence Data;Base Sequence;Middle Aged"
+n1-71,"Animals;Humans;Female;Mice;Male;Adult;Disease Models, Animal;Rats;Middle Aged;Mice, Inbred C57BL"
+n1-76,"Humans;Animals;Male;Female;Mice;Adult;Middle Aged;Aged;Mice, Knockout;Adolescent"
+n1-383,Animals;Humans;Female;Male;Mice;Middle Aged;Cell Line;Amino Acid Sequence;Phylogeny;Swine
+n1-75,Humans;Female;Animals;Male;Adult;Middle Aged;Young Adult;Adolescent;Mice;Aged
+n1-103,"Animals;Humans;Female;Male;Mutation;Gene Expression Regulation, Plant;Phenotype;Arabidopsis / genetics;Arabidopsis Proteins / genetics;Molecular Sequence Data"
+n1-426,"Humans;Animals;Female;Mice;Male;Adult;Middle Aged;Mice, Inbred C57BL;Cells, Cultured;Cell Line"
+n1-402,"Humans;Animals;Mice;Female;Male;Cell Line;HEK293 Cells;Cells, Cultured;Mice, Inbred C57BL;Phylogeny"
+n1-80,"Humans;Animals;Female;Male;Mice;Cell Line, Tumor;Middle Aged;Aged;Adult;Cell Proliferation"
+n1-81,"Animals;Humans;Mice;Male;Female;Mice, Inbred C57BL;Mice, Knockout;Cell Line;Blotting, Western;Base Sequence"
+n1-82,Humans;Female;Male;Adult;Middle Aged;Animals;Aged;Young Adult;Adolescent;Mexico / epidemiology
+n1-373,"Humans;Animals;Mice;Female;Cell Line, Tumor;Disease Models, Animal;Cells, Cultured;Male;Mice, Inbred C57BL;Mutation"
+n1-227,"Humans;Animals;Mice;Female;Male;Cell Line;Cell Line, Tumor;Disease Models, Animal;Algorithms;Middle Aged"
+n1-301,"Humans;Animals;Female;Male;Mice;Adult;Mice, Knockout;Middle Aged;Aged;Cells, Cultured"
+n1-87,"Animals;Humans;Male;Female;Mice;Adult;Middle Aged;Phenotype;Cells, Cultured;Mice, Inbred C57BL"
+n1-244,Humans;Male;Animals;Female;Mice;Adult;Middle Aged;Cell Line;Child;Oligonucleotide Array Sequence Analysis
+n1-89,"Animals;Humans;Female;Male;Mice;Mice, Inbred C57BL;Molecular Sequence Data;Adult;Phenotype;Cells, Cultured"
+n1-90,"Humans;Animals;Female;Male;Mice;Amino Acid Sequence;Molecular Sequence Data;Adult;Models, Molecular;Middle Aged"
+n1-425,"Humans;Animals;Female;Male;Mice;Cell Line, Tumor;Middle Aged;Aged;Adult;Mutation"
+n1-94,"Humans;Animals;Female;Mice;Male;Cell Line;Disease Models, Animal;Mice, Inbred C57BL;Middle Aged;Adult"
+n1-100,Humans;Animals;Female;Male;Middle Aged;Adult;Aged;Young Adult;Adolescent;Mice
+n1-102,"Humans;Mutation;Gene Expression Regulation, Plant;Phylogeny;Arabidopsis Proteins / metabolism*;Amino Acid Sequence;Arabidopsis Proteins / genetics;Arabidopsis / genetics;Gene Expression Profiling;Plant Roots / growth & development*"
+n1-134,Humans;Male;Female;Adult;Young Adult;Middle Aged;Adolescent;Aged;Animals;Magnetic Resonance Imaging
+n1-1,Animals;Ecosystem;Ecosystem*;Humans;Female;Male;Geography;Population Dynamics;Biodiversity;Species Specificity
+n1-106,Animals;Phylogeny;Ecosystem;Humans;Forests;Phylogeny*;United States;Geography;Biodiversity*;Male
+n1-120,Animals;Male;Humans;Rats;Mice;Time Factors;Gene Expression;Phenotype;Phylogeny;Gene Expression Regulation*
+n1-126,"Animals;Humans;Female;Male;Middle Aged;Phylogeny;China;Mice, Inbred BALB C;Mice;Cell Line, Tumor"
+n1-253,"Animals;Humans;Male;Female;Mice;Middle Aged;Adult;Aged;Mice, Inbred C57BL;Mice, Knockout"
+n1-261,"Animals;Humans;Female;Male;Mice;Mice, Inbred C57BL;Adult;Middle Aged;Case-Control Studies;Time Factors"
+n1-93,"Humans;Animals;Male;Female;Mice;Middle Aged;Adult;Aged;Disease Models, Animal;Mice, Inbred C57BL"
+n1-414,Humans;Female;Male;Animals;Adult;Middle Aged;Mice;Aged;Young Adult;Brazil / epidemiology
+n1-181,"Humans;Animals;Female;Mice;Male;Disease Models, Animal;Amino Acid Sequence;Protein Binding;Molecular Sequence Data;Adult"
+n1-117,"Humans;Animals;Male;Female;Mice;Middle Aged;Adult;Aged;Cells, Cultured;Young Adult"
+n1-143,Humans;Animals;Male;Female;Mice;Middle Aged;Adult;Rats;Aged;China / epidemiology
+n1-122,"Humans;Animals;Male;Mice;Female;Aged;Mice, Transgenic;Middle Aged;Rats;Amino Acid Sequence"
+n1-183,"Humans;Animals;Female;Male;Mice;Cell Line, Tumor;Adult;Middle Aged;Rats;Disease Models, Animal"
+n1-290,"Humans;Female;Male;Middle Aged;Adult;Animals;Aged;Mice;Young Adult;Aged, 80 and over"
+n1-127,Humans;Male;Female;Adult;Middle Aged;Young Adult;Animals;Adolescent;Aged;Mice
+n1-140,"Humans;Animals;Female;Male;Mice;Middle Aged;Adult;Aged;Mice, Inbred C57BL;Young Adult"
+n1-129,"Humans;Animals;Male;Female;Mice;Middle Aged;Mutation;Adult;Aged;Cell Line, Tumor"
+n1-139,Humans;Female;Male;Adult;Young Adult;Adolescent;Middle Aged;Aged;Child;Surveys and Questionnaires
+n1-432,Humans;Male;Female;Adult;Animals;Young Adult;Middle Aged;Adolescent;Mice;Aged
+n1-136,"Humans;Male;Female;Middle Aged;Adult;Aged;Young Adult;Animals;Aged, 80 and over;Case-Control Studies"
+n1-137,"Humans;Female;Male;Animals;Mice;Middle Aged;Adult;Aged;Mice, Inbred C57BL;Adolescent"
+n1-408,"Humans;Animals;Female;Male;History, Ancient;Archaeology;Archaeology*;Fossils*;Geography;Adult"
+n1-207,"Humans;Animals;Female;Male;Mice;Adult;Middle Aged;Aged;Disease Models, Animal;Young Adult"
+n1-149,"Humans;Animals;Female;Male;Adult;Mice;Middle Aged;Cells, Cultured;Cell Line, Tumor;Gene Expression Profiling"
+n1-150,"Humans;Animals;Female;Male;Mice;Middle Aged;Adult;Cells, Cultured;Disease Models, Animal;Mice, Inbred C57BL"
+n1-72,Humans;Male;Female;Adult;Middle Aged;Animals;Aged;Young Adult;Adolescent;Rats
+n1-196,"Humans;Animals;Female;Male;Middle Aged;Adult;Aged;Mice;Cell Line, Tumor;Young Adult"
+n1-433,Animals;Female;Humans;Male;Ecosystem;Ecosystem*;Geography;Phylogeny;Species Specificity;Population Dynamics
+n1-330,"Humans;Animals;Female;Male;Mice;Adult;Middle Aged;Mice, Inbred C57BL;Aged;Young Adult"
+n1-163,Humans;Male;Female;Animals;Adult;Middle Aged;Adolescent;Mice;Young Adult;Child
+n1-247,"Humans;Male;Animals;Female;Middle Aged;Mice;Aged;Adult;Rats;Aged, 80 and over"
+n1-297,"Animals;Humans;Male;Female;Gene Expression Regulation, Developmental;Adolescent;Adult;Child;Young Adult;Drosophila Proteins / metabolism*"
+n1-172,"Humans;Male;Female;Animals;Adult;Middle Aged;Mice;Aged;Young Adult;Aged, 80 and over"
+n1-175,Humans;Female;Male;Animals;Adult;Middle Aged;Aged;Young Adult;Mice;Adolescent
+n1-174,Humans;Male;Animals;Female;Adult;Mice;Young Adult;Middle Aged;Adolescent;Aged
+n1-92,"Animals;Female;Male;Humans;Adult;Dogs;Middle Aged;Young Adult;Behavior, Animal*;Behavior, Animal / physiology*"
+n1-177,"Humans;Animals;Female;Male;Mice;Middle Aged;Disease Models, Animal;Cell Line;Cell Proliferation / drug effects;Aged"
+n1-179,"Animals;Humans;Male;Mice;Female;Rats;Amino Acid Sequence;Cell Line;Protein Binding;Mice, Inbred C57BL"
+n1-418,"Animals;Male;Female;Phylogeny;Humans;Seasons;Sequence Analysis, DNA;Ecosystem;Species Specificity;Republic of Korea"
+n1-286,Humans;Animals;Female;Male;Adult;Middle Aged;Aged;Young Adult;Mice;Phylogeny
+n1-21,Animals;Humans;Female;Male;Adult;Middle Aged;Adolescent;Phylogeny;Mice;Cattle
+n1-184,"Animals;Male;Humans;Female;Adult;Mice;Young Adult;Time Factors;Middle Aged;Models, Biological"
+n1-185,Animals;Ecosystem;Phylogeny;Female;Humans;Biodiversity*;Ecosystem*;Geography;Population Dynamics;Species Specificity
+n1-360,"Animals;Mice;Humans;Female;Male;Mice, Inbred C57BL;Mice, Knockout;Mice, Transgenic;Phenotype;Rats"
+n1-406,"Humans;Male;Female;Animals;Adult;Middle Aged;Aged;Mice;Young Adult;Aged, 80 and over"
+n1-305,Humans;Male;Female;Animals;Adult;Middle Aged;Mice;Aged;Rats;Young Adult
+n1-419,Humans;Male;Female;Middle Aged;Animals;Adult;Aged;Mice;Risk Factors;Retrospective Studies
+n1-195,Humans;Animals;Male;Female;Middle Aged;Mice;Aged;Adult;Rats;Computer Simulation
+n1-252,"Humans;Male;Female;Adolescent;Adult;Animals;Child;Young Adult;Child, Preschool;Kinetics"
+n1-204,Animals;Humans;Ecosystem;Female;Male;Biodiversity*;Ecosystem*;Biomass;Biodiversity;Phylogeny
+n1-319,"Humans;Animals;Female;Male;Mice;Adult;Aged;Middle Aged;Mice, Inbred C57BL;Cell Line"
+n1-289,"Animals;Humans;Phylogeny;Gene Expression Regulation, Plant;Phenotype;Molecular Sequence Data;Amino Acid Sequence;Plant Proteins / genetics;Gene Expression Profiling;Genotype"
+n1-431,"Humans;Animals;Mice;Female;Male;Adult;Middle Aged;Cell Line, Tumor;Mice, Inbred C57BL;Aged"
+n1-228,Animals;Humans;Male;Female;Mice;Adult;Middle Aged;Young Adult;Molecular Sequence Data;Mutation
+n1-294,"Animals;Humans;Male;Mice;Female;Rats;Mice, Inbred C57BL;Immunohistochemistry;Cells, Cultured;Models, Biological"
+n1-336,"Humans;Male;Female;Middle Aged;Aged;Animals;Prognosis;Aged, 80 and over;Adult;Mice"
+n1-187,Humans;Male;Female;Animals;Middle Aged;Adult;Mice;Aged;Young Adult;Adolescent
+n1-285,"Humans;Animals;Female;Male;Mice;Adult;Middle Aged;Child;Cell Line, Tumor;Child, Preschool"
+n1-399,Humans;Female;Male;Adult;Middle Aged;Young Adult;Aged;Adolescent;Animals;Surveys and Questionnaires
+n1-295,"Animals;Humans;Female;Mice;Male;Mutation;Mice, Knockout;Protein Binding;Molecular Sequence Data;Cell Line, Tumor"
+n1-287,Animals;Humans;Male;Female;Mice;Adult;Phylogeny;Plant Diseases / microbiology*;Molecular Sequence Data;Gene Expression Profiling
+n1-99,"Animals;Humans;Mice;Female;Male;Signal Transduction;Mice, Inbred C57BL;Mice, Knockout;Reproducibility of Results;Cell Differentiation / physiology"
+n1-235,"Humans;Male;Female;Animals;Adult;Mice;Young Adult;Middle Aged;Adolescent;Disease Models, Animal"
+n1-167,"Humans;Female;Male;Animals;Adult;Mice;Middle Aged;Cell Line, Tumor;Young Adult;Aged"
+n1-109,"Humans;Male;Female;Animals;Adult;Middle Aged;Mice;Aged;Young Adult;Disease Models, Animal"
+n1-365,"Humans;Animals;Mice;Female;Male;Mice, Inbred C57BL;Cell Line;Cell Line, Tumor;Adult;Middle Aged"
+n1-30,"Humans;Female;Male;Animals;Middle Aged;Adult;Aged;Mice;Cell Line, Tumor;Young Adult"
+n1-369,Humans;Male;Female;Animals;Middle Aged;Adult;Aged;Mice;Young Adult;Adolescent
+n1-256,"Animals;Mice;Humans;Protein Binding;Male;Kinetics;Mice, Knockout;Signal Transduction;Central Nervous System / metabolism;Larva / metabolism"
+n1-299,Humans;Male;Female;Animals;Middle Aged;Adult;Aged;Mice;Young Adult;Adolescent
+n1-389,Animals;Humans;Female;Male;Adult;Young Adult;Phylogeny;Genotype;Phenotype;Species Specificity
+n1-221,"Gene Expression Regulation, Plant;Phylogeny;Humans;Gossypium / genetics*;Animals;Plant Proteins / genetics;Mutation;Amino Acid Sequence;Chromosome Mapping;Genes, Plant"
+n1-382,"Humans;Female;Animals;Male;Mice;Middle Aged;Adult;Aged;Cell Line, Tumor;Genotype"
+n1-273,"Humans;Female;Male;Animals;Mice;Adult;Middle Aged;Mice, Inbred C57BL;Adolescent;Young Adult"
+n1-378,"Animals;Mice;Humans;Mice, Knockout;Transcription Factors / genetics;Protein Binding;Caenorhabditis elegans / genetics;Gene Expression Regulation, Developmental;Phenotype;Disease Models, Animal"
+n1-293,"Humans;Male;Animals;Female;Middle Aged;Adult;Mice;Aged;Cell Line, Tumor;Risk Factors"
+n1-300,Humans;Male;Female;Animals;Middle Aged;Adult;Aged;Young Adult;Mice;Adolescent
+n1-388,Humans;Male;Female;Animals;Adult;Young Adult;Middle Aged;Adolescent;Time Factors;Aged
+n1-180,Humans;Male;Female;Adult;Middle Aged;Animals;Aged;Mice;Young Adult;Adolescent
+n1-223,"Humans;Female;Male;Animals;Middle Aged;Adult;Aged;Mice;Risk Factors;Aged, 80 and over"
+n1-284,"Humans;Animals;Mice;Female;Male;Cell Line, Tumor;Mice, Inbred C57BL;Cell Line;Mice, Knockout;Signal Transduction"
+n1-349,Humans;Female;Animals;Male;Adult;Middle Aged;Adolescent;Mice;Young Adult;Genotype
+n1-236,Humans;Male;Female;Middle Aged;Adult;Aged;Young Adult;Animals;Adolescent;Mice
+n1-328,"Animals;Humans;Female;Male;Mice;Cell Line, Tumor;Middle Aged;Adult;Disease Models, Animal;Mice, Inbred C57BL"
+n1-296,Humans;Female;Male;Adult;Young Adult;Adolescent;Middle Aged;Animals;Surveys and Questionnaires;Aged
+n1-333,"Humans;Female;Male;Adult;Middle Aged;Aged;Young Adult;Animals;Adolescent;Aged, 80 and over"
+n1-302,"Animals;Humans;Female;Male;Mice;Middle Aged;Mice, Inbred C57BL;Aged;Cells, Cultured;Adult"
+n1-304,"Animals;Humans;Female;Mice;Male;Mice, Knockout;Mutation;Signal Transduction;Disease Models, Animal;Dogs"
+n1-356,"Humans;Animals;Mice;Female;Male;Mice, Inbred C57BL;Cell Line, Tumor;Mutation;Disease Models, Animal;Adult"
+n1-355,"Humans;Female;Animals;Male;Middle Aged;Mice;Aged;Adult;Aged, 80 and over;Cell Line"
+n1-312,"Humans;Animals;Mice;Male;Female;Cell Line, Tumor;Mice, Inbred C57BL;Middle Aged;Aged;Cells, Cultured"
+n1-154,"Humans;Phylogeny;Animals;Gene Expression Profiling;Male;Real-Time Polymerase Chain Reaction;Plant Proteins / genetics*;Cell Line, Tumor;India;Reproducibility of Results"
+n1-314,"Humans;Animals;Male;Female;Mice;Middle Aged;Adult;Aged;Cell Line, Tumor;Cells, Cultured"
+n1-318,Humans;Animals;Female;Mice;Male;Adult;Amino Acid Sequence;Molecular Sequence Data;Middle Aged;Mutation
+n1-251,"Humans;Animals;Female;Male;Mice;Middle Aged;Aged;Adult;Retrospective Studies;Disease Models, Animal"
+n1-34,Humans;Male;Female;Middle Aged;Adult;Animals;Aged;Mice;Young Adult;Adolescent
+n1-270,"Humans;Female;Animals;Male;Mice;Middle Aged;Aged;Adult;Aged, 80 and over;Cell Line, Tumor"
+n1-384,"Humans;Male;Female;Adult;Middle Aged;Animals;Cross-Sectional Studies;Aged;Young Adult;Microscopy, Confocal"
+n1-332,"Humans;Animals;Female;Male;Mice;Adult;Cell Line, Tumor;Aged;Middle Aged;Mutation"
+n1-335,"Animals;Humans;Male;Female;Mice;Cell Line, Tumor;Cats;Aged;RNA, Messenger / genetics;Disease Models, Animal"
+n1-49,"Animals;Humans;Mice;Female;Male;Mice, Inbred C57BL;Cell Line, Tumor;Amino Acid Sequence;Mutation;Phenotype"
+n1-339,Animals;Humans;Male;Female;Phylogeny;Middle Aged;Molecular Sequence Data;Gene Expression Profiling;Amino Acid Sequence;Aged
+n1-189,"Humans;Female;Male;Middle Aged;Adult;Aged;Animals;Greece / epidemiology;Adolescent;Aged, 80 and over"
+n1-66,"Humans;Animals;Male;Female;Mice;Middle Aged;Adult;Aged;Disease Models, Animal;Mutation"
+n1-344,"Animals;Humans;Female;Male;Cattle;Mice;Phylogeny;Cells, Cultured;Adult;Species Specificity"
+n1-394,"Humans;Animals;Male;Female;Mice;Middle Aged;Adult;Aged;Young Adult;Aged, 80 and over"
+n1-40,Animals;Male;Female;Humans;Phylogeny;Mice;Molecular Sequence Data;Amino Acid Sequence;Gene Expression Profiling;Species Specificity
+n1-361,"Animals;Phylogeny;Genetic Variation;Humans;Ecosystem;Species Specificity;Female;Ecosystem*;Male;Sequence Analysis, DNA"
+n1-362,"Animals;Phylogeny;Humans;Biodiversity*;Ecosystem;Sweden;Diptera / classification;Insecta / classification*;Europe;Extinction, Biological*"
+n1-107,"Animals;Humans;Male;Female;Mice;Cells, Cultured;Signal Transduction;Cell Line;Saccharomyces cerevisiae / genetics*;Cell Line, Tumor"
+n1-3,"Humans;Female;Male;Animals;Middle Aged;Adult;Aged;Mice;Rats;Cell Line, Tumor"
+n1-79,"Animals;Humans;Female;Male;Mice;Mice, Inbred C57BL;Cells, Cultured;Cell Line;Adult;Cell Line, Tumor"
+n1-190,Animals;Humans;Female;Male;Mice;Phylogeny;Population Dynamics;Ecosystem;Geography;Time Factors
+n1-387,"Humans;Male;Animals;Female;Mice;Adult;Middle Aged;Mice, Inbred C57BL;Mice, Knockout;Time Factors"
+n1-282,"Humans;Female;Animals;Male;Mice;Adult;Middle Aged;Young Adult;Aged;Mice, Inbred C57BL"
+n1-415,Animals;Female;Male;Humans;Phylogeny;Brazil;Species Specificity;Geography;Biodiversity*;Adult
+n1-159,Humans;Animals;Female;Male;Middle Aged;Adult;Mice;Aged;Young Adult;Rats
+n1-28,"Animals;Humans;Male;Mice;Female;Rats;Cells, Cultured;Cell Line;Rats, Sprague-Dawley;Models, Biological"
+n1-193,"Humans;Female;Animals;Male;Mice;Adult;Middle Aged;Aged;Disease Models, Animal;Mice, Inbred C57BL"
+n1-26,"Animals;Humans;Female;Male;Mice;Adult;Middle Aged;Aged;Cells, Cultured;Cell Line"
+n1-410,"Humans;Animals;Mice;Female;HEK293 Cells;Male;RNA, Messenger / genetics;Cell Line, Tumor;Cells, Cultured;HeLa Cells"
+n1-411,"Humans;Male;Female;Adult;Aged;Middle Aged;Young Adult;Case-Control Studies;Adolescent;Aged, 80 and over"
+n1-412,"Humans;Animals;Mice;Female;Male;Cell Line, Tumor;Mice, Inbred C57BL;Disease Models, Animal;Middle Aged;Cell Line"
+n1-29,Humans;Male;Female;Animals;Middle Aged;Adult;Aged;Mice;Young Adult;Gene Expression Profiling
+n1-43,Humans;Female;Male;Adult;Middle Aged;Adolescent;Young Adult;Aged;Magnetic Resonance Imaging;Case-Control Studies
+n1-377,"Animals;Phylogeny;Humans;Female;Ecosystem;Biodiversity;Male;Japan;Species Specificity;Sequence Analysis, DNA"
+n1-430,"Humans;Animals;Female;Male;Middle Aged;Adult;Aged;Mice;Prognosis;Aged, 80 and over"
+n1-15,"Humans;Animals;Female;Male;Mice;Middle Aged;Adult;Aged;Cell Line, Tumor;Mice, Inbred C57BL"
+n1-347,"Animals;Mice;Male;Humans;Female;Rats;Mice, Inbred C57BL;Rats, Long-Evans;Time Factors;Synapses / physiology"
+n1-248,"Humans;Animals;Male;Female;Mice;Adult;Middle Aged;Young Adult;Mice, Inbred C57BL;Cell Line"
+n1-427,Animals;Humans;Phylogeny;Fungal Proteins / genetics;Plant Diseases / microbiology;Amino Acid Sequence;Fungal Proteins / metabolism*;Plant Diseases / microbiology*;Mutation;Molecular Sequence Data
+n1-350,"Humans;Animals;Male;Female;Mice;Cell Line, Tumor;Mice, Inbred C57BL;Adolescent;Middle Aged;Adult"
+n1-351,"Animals;Humans;Mice;Female;Male;Mice, Inbred C57BL;Middle Aged;Adult;Disease Models, Animal;Rats"
+n1-358,Mutation;Saccharomyces cerevisiae / genetics;Saccharomyces cerevisiae Proteins / genetics;Saccharomyces cerevisiae Proteins / metabolism*;DNA-Binding Proteins / genetics;Saccharomyces cerevisiae / genetics*;Cell Cycle Proteins / genetics*;Saccharomyces cerevisiae Proteins / metabolism;Saccharomyces cerevisiae Proteins / genetics*;Phosphorylation
+n1-367,"Humans;Animals;Male;Female;Mice;Middle Aged;Adult;Aged;Amino Acid Sequence;Cell Line, Tumor"
+n1-368,"Animals;Humans;Mice;Male;Female;Mice, Inbred C57BL;Gene Expression Profiling;Cells, Cultured;Transcription Factors / metabolism;Adult"
+n1-429,"Humans;Female;Male;Animals;Adult;Mice;Middle Aged;Risk Factors;Cells, Cultured;Case-Control Studies"
+n1-375,Humans;Animals;Female;Male;Mice;Adult;Middle Aged;Cell Line;Rats;Aged
+n1-376,"Humans;Animals;Male;Female;Mice;Adult;Middle Aged;Mice, Inbred C57BL;Disease Models, Animal;Young Adult"
+n1-114,Animals;Male;Female;Humans;Mice;Middle Aged;Adult;Young Adult;Immunohistochemistry;Adolescent
+n1-381,Animals;Female;Male;Phylogeny;Humans;Molecular Sequence Data;Amino Acid Sequence;Insect Proteins / genetics;Base Sequence;Gene Expression Profiling
+n1-231,Humans;Phenotype;Animals;Male;Phylogeny;Female;Oryza / genetics*;Mutation;Oryza / physiology*;Signal Transduction
+n1-226,Humans;Male;Animals;Female;Mice;Middle Aged;Adult;Aged;Rats;Young Adult
+n1-16,"Humans;Animals;Models, Biological*;Computer Simulation;Algorithms;Models, Biological;Computational Biology;Mice;Protein Binding;Models, Statistical"
+n1-5,Humans;Male;Female;Animals;Adult;Middle Aged;Mice;Child;Young Adult;Adolescent
+n1-400,"Humans;Male;Female;Animals;Middle Aged;Mice;Adult;Aged;Disease Models, Animal;Young Adult"
+n1-264,"Humans;Animals;Female;Male;Middle Aged;Mice;Adult;Cells, Cultured;Aged;Rats"
+n1-424,"Humans;Animals;Male;Molecular Sequence Data;Signal Transduction;High-Throughput Nucleotide Sequencing;Phenotype;Sequence Analysis, DNA;DNA-Binding Proteins / genetics;Mutation"
+n1-357,"Humans;Male;Female;Middle Aged;Aged;Adult;Animals;Aged, 80 and over;Treatment Outcome;Mice"
+n1-2,Animals;Female;Humans;Male;Mice;Cattle;Phylogeny;Dogs;Species Specificity;Time Factors
+n1-353,"Animals;Humans;Female;Male;Mice;Adult;Pregnancy;Middle Aged;Mice, Inbred C57BL;Infant, Newborn"
+n1-276,Animals;Humans;Male;Female;Drosophila Proteins / genetics;Mice;Cell Line;Drosophila melanogaster / genetics;Mutation;Drosophila Proteins / metabolism*
+n1-138,"Humans;Animals;Male;Female;Mice;Adult;Middle Aged;Aged;Mice, Inbred C57BL;Young Adult"
+n1-32,"Humans;Animals;Female;Mice;Male;Middle Aged;Aged;Adult;Cell Line, Tumor;Phenotype"
+n1-35,Humans;Male;Female;Middle Aged;Adult;Animals;Aged;Spain;Adolescent;Young Adult
+n1-217,"Humans;Animals;Female;Male;Mice;Adult;Middle Aged;Aged;Cell Line;Mice, Knockout"
+n1-239,"Humans;Female;Male;Animals;Mice;Adult;Young Adult;Mice, Inbred C57BL;Mice, Knockout;Photic Stimulation"
+n1-55,"Humans;Animals;Mice;Female;Cell Line, Tumor;Male;Mice, Inbred C57BL;Aged;Adult;Middle Aged"
+n1-58,"Animals;Humans;Male;Phylogeny;Molecular Sequence Data;Female;Amino Acid Sequence;China;Base Sequence;Sequence Analysis, DNA"
+n1-73,"Humans;Animals;Cell Line, Tumor;Mice;Female;Protein Binding;Male;HeLa Cells;Cell Line;Intracellular Signaling Peptides and Proteins / metabolism"
+n1-69,Humans;Male;Female;Adult;Animals;Middle Aged;Young Adult;Adolescent;Mice;Aged
+n1-397,"Humans;Animals;Male;Female;Adult;Middle Aged;Mice;Cell Line, Tumor;Aged;Young Adult"
+n1-168,"Humans;Animals;Male;Female;Mice;Adult;Apoptosis / drug effects;Rats;Cells, Cultured;Up-Regulation"
+n1-115,"Animals;Humans;Mice;Male;Female;Disease Models, Animal;HEK293 Cells;Mice, Knockout;Mice, Inbred C57BL;Phenotype"
+n1-348,"Humans;Animals;Male;Mice;Female;Mice, Inbred C57BL;Adult;Mice, Knockout;Rats;Signal Transduction"
+n1-205,"Humans;Animals;Mice;Cell Line;Amino Acid Sequence;Molecular Sequence Data;Rats;Models, Molecular;Female;Protein Binding"
+n1-111,"Animals;Humans;Male;Female;Mice;Rats;Mice, Inbred C57BL;Models, Molecular;Cell Line, Tumor;Middle Aged"
+n1-201,"Humans;Animals;Female;Male;Middle Aged;Adult;Mice;Cell Line, Tumor;Aged;Gene Expression Regulation, Neoplastic"
+n1-391,"Humans;Female;Male;Adult;Animals;Middle Aged;Aged;Young Adult;Mice;Aged, 80 and over"
+n1-366,"Animals;Mice;Male;Humans;Female;Cell Line, Tumor;Mice, Inbred C57BL;Disease Models, Animal;Rats;Mice, SCID"
+n1-141,"Humans;Animals;Female;Mice;Male;Adult;Mice, Inbred C57BL;Disease Models, Animal;Middle Aged;Cell Line, Tumor"
+n1-218,"Humans;Male;Animals;Female;Mice;Aged;Middle Aged;Adult;Retrospective Studies;Aged, 80 and over"
+n1-147,Humans;Male;Female;Animals;Adult;Young Adult;Middle Aged;Adolescent;Mice;Aged
+n1-153,"Humans;Animals;Female;Mice;Male;Cell Line, Tumor;Middle Aged;Aged;Disease Models, Animal;Mice, Inbred C57BL"
+n1-63,"Animals;Female;Humans;Mice;Ecosystem;Male;Ecosystem*;Microbiota / physiology*;Soil Microbiology;Cells, Cultured"
+n1-331,"Humans;Animals;Male;Female;Mice;Cell Line, Tumor;Rats;Middle Aged;Mice, Inbred C57BL;Adult"
+n1-250,Animals;Female;Male;Humans;Dogs;Mice;Time Factors;Turtles / physiology*;Cats;Prospective Studies
+n1-278,"Humans;Female;Animals;Male;Adult;Middle Aged;Aged;Mice;Child;Aged, 80 and over"
+n1-173,"Humans;Female;Animals;Adult;Pregnancy;Male;Mice;Young Adult;Infant, Newborn;Adolescent"
+n1-188,"Animals;Humans;Female;Male;Mice;Middle Aged;Adult;Cell Line, Tumor;Pregnancy;Rats"
+n1-219,"Animals;Male;Female;Humans;Phylogeny;Base Sequence;Gene Expression Profiling;Gene Expression Regulation, Plant;China;Reproducibility of Results"
+n1-165,"Animals;Humans;Mice;Male;Female;Molecular Sequence Data;Amino Acid Sequence;Models, Molecular;Swine / genetics*;Green Fluorescent Proteins / genetics"
+n1-275,"Humans;Animals;Mice;Male;Female;Cell Line, Tumor;Protein Binding;Mice, Inbred C57BL;Amino Acid Sequence;Middle Aged"
+n1-210,Humans;Female;Male;Middle Aged;Adult;Animals;Aged;Mice;Young Adult;Prognosis
+n1-12,Humans;Male;Female;Middle Aged;Adult;Animals;Aged;Mice;Young Adult;Case-Control Studies
+n1-170,"Humans;Animals;Female;Male;Mice;Mice, Inbred C57BL;Adult;Middle Aged;Mice, Knockout;Aged"
+n1-222,Animals;Climate Change*;Humans;Biomass;Temperature*;Soil / chemistry*;Ecosystem;Microbiota*;Geography;Ecosystem*
+n1-10,Animals;Humans;Female;Male;Introduced Species*;Aedes*;Aged;Mosquito Control / methods*;Aedes / genetics*;Mosquito Vectors / virology
+n1-229,"Humans;Animals;Mice;Male;Cell Line, Tumor;Female;Disease Models, Animal;Mice, Inbred C57BL;Models, Molecular;DNA / metabolism"
+n1-372,"Humans;Male;Female;Middle Aged;Aged;Animals;Adult;Aged, 80 and over;Cell Line, Tumor;Mice"
+n1-198,"Humans;Animals;Mice;Male;Female;Mice, Inbred C57BL;Genetic Variation;Disease Models, Animal;Myocardium / metabolism;Mice, Transgenic"
+n1-334,"Humans;Male;Female;Adult;Middle Aged;Animals;Aged;Young Adult;Aged, 80 and over;Mice"
+n1-233,Humans;Female;Adult;Male;Middle Aged;Young Adult;Adolescent;Aged;Surveys and Questionnaires;Cross-Sectional Studies
+n1-417,Animals;Fossils*;Phylogeny;Dinosaurs / anatomy & histology*;Fossils;Humans;Biological Evolution;Female;Paleontology;Biological Evolution*
+n1-324,"Animals;Humans;Female;Mice;Male;Cell Line;Adult;Middle Aged;Young Adult;Disease Models, Animal"
+n1-57,"Animals;Humans;Male;Rats;Female;Mice;Kisspeptins / metabolism*;Amino Acid Sequence;Protein Binding;Rats, Wistar"
+n1-133,Female;Humans;Male;Animals;Adult;Young Adult;Middle Aged;Adolescent;Child;Time Factors
+n1-291,Humans;Male;Female;Adult;Young Adult;Adolescent;Animals;Mice;Middle Aged;Attention
+n1-298,Humans;Male;Female;Animals;Adult;Middle Aged;Mice;Aged;Adolescent;Cross-Sectional Studies
+n1-243,"Phylogeny;Animals;Humans;Sequence Analysis, DNA;Female;Male;Cluster Analysis;China;Bayes Theorem;Base Sequence"
+n1-144,"Humans;Animals;Female;Male;Mice;Adult;Cell Line, Tumor;Middle Aged;Tumor Cells, Cultured;Aged"
+n1-329,Animals;Female;Humans;Male;Mice;Phylogeny;Species Specificity;Gene Expression Profiling;Cattle;Phenotype
+n1-254,"Animals;Humans;Mice;Female;Male;Cell Line, Tumor;Signal Transduction;Mice, Knockout;Rats;Cells, Cultured"
+n1-161,Humans;Female;Male;Adult;Middle Aged;India / epidemiology;Adolescent;Animals;Young Adult;India
+n1-281,"Bacteriophages / genetics*;Genetic Variation*;Animals;Arthrobacter / virology*;Genome, Viral / genetics;Bacteriophages / physiology*;Genomics*;Humans;Phylogeny;Mice"
+n1-258,"Humans;Female;Male;Animals;Middle Aged;Adult;Aged;Mice;Risk Factors;Aged, 80 and over"
+n1-74,"Animals;Mice;Humans;Male;Female;Blotting, Western;Reverse Transcriptase Polymerase Chain Reaction;Rats;HEK293 Cells;Mice, Inbred C57BL"
+n1-263,"Humans;Male;Female;Aged;Middle Aged;Adult;Animals;Aged, 80 and over;Retrospective Studies;Treatment Outcome"
+n1-191,"Humans;Animals;Female;Male;Mice;Cell Line, Tumor;Middle Aged;Aged;Adult;Reproducibility of Results"
+n1-266,"Animals;Humans;Female;Male;Mice;Mutation;Cell Line;Adult;Cattle;Cells, Cultured"
+n1-283,"Humans;Female;Male;Middle Aged;Aged;Adult;Animals;Cross-Sectional Studies;Aged, 80 and over;Mice"
+n1-215,"Humans;Female;Aged;Adult;Middle Aged;Male;Aged, 80 and over;Prognosis;Animals;Young Adult"
+n1-145,"Animals;Humans;Female;Male;Mice;Mice, Inbred C57BL;Disease Models, Animal;Middle Aged;Rats;Aged"
+n1-61,"Humans;Female;Male;Middle Aged;Aged;Adult;Animals;Mice;Aged, 80 and over;Treatment Outcome"
+n1-309,"Humans;Animals;Female;Male;Mice;Protein Conformation;Models, Molecular;Mutation;Adult;Models, Biological*"
+n1-311,"Male;Humans;Female;Animals;Mice;Adult;Middle Aged;Aged;Mice, Inbred C57BL;Young Adult"
+n1-323,Animals;Humans;Mice;Female;Amino Acid Sequence;Bacterial Proteins / metabolism*;Bacterial Proteins / genetics;Male;Cell Line;Bacterial Proteins / chemistry
+n1-77,Humans;Female;Male;Animals;Middle Aged;Adult;Young Adult;Aged;Adolescent;Mice
+n1-151,Humans;Animals;Male;Mice;Female;Mutation;Adult;Cell Line;Middle Aged;Dependovirus / genetics*
+n1-197,Humans;Female;Animals;Male;Adult;Mice;Middle Aged;Young Adult;Aged;Rats
+n1-338,"Animals;Humans;Male;Female;Rats;Rats, Wistar;Brazil;Chromatography, High Pressure Liquid;Plant Extracts / chemistry;Mice"
+n1-24,"Animals;Humans;Gene Expression Regulation, Plant;Gene Expression Profiling;Plant Proteins / genetics;Phenotype;Chromosome Mapping;Genetic Variation;Phylogeny;Mice"
+n1-237,Humans;Female;Male;Animals;Adult;Middle Aged;Case-Control Studies;Young Adult;Aged;Mice
+n1-60,Humans;Male;Animals;Female;Adult;Mice;Rats;Young Adult;Middle Aged;Aged
+n1-260,Humans;Female;Adult;Male;Middle Aged;Risk Factors;Kidney Transplantation / adverse effects*;Aged;Retrospective Studies;Prospective Studies
+n1-363,"Humans;Female;Animals;Male;Mice;Middle Aged;Adult;Aged;Young Adult;Mice, Inbred C57BL"
+n1-340,"Animals;Humans;Mice;Male;Female;Cell Line;Mice, Inbred C57BL;Cell Proliferation;Disease Models, Animal;Plant Extracts / pharmacology*"
+n1-398,Humans;Male;Animals;Female;Mice;Middle Aged;Adult;Aged;Cell Line;Rats
+n1-225,Humans;Male;Female;Middle Aged;Aged;Adult;Young Adult;Animals;Adolescent;Cohort Studies
+n1-224,"Humans;Male;Animals;Female;Middle Aged;Adult;Cell Line, Tumor;Aged;Molecular Sequence Data;Oligonucleotide Array Sequence Analysis"
+n1-23,"Humans;Molecular Sequence Data;Amino Acid Sequence;Gene Expression Regulation, Plant;Models, Molecular;Cloning, Molecular;Protein Structure, Secondary;Plant Leaves / metabolism;Triticum / genetics*;Sequence Alignment"
+n1-230,Humans;Male;Female;Adult;Young Adult;Adolescent;Middle Aged;Cross-Sectional Studies;Surveys and Questionnaires;Aged
+n1-27,"Humans;Animals;Female;Male;Mice;Bacterial Proteins / metabolism*;Models, Molecular;Bacterial Proteins / genetics;Temperature;Soil / chemistry*"
+n1-36,"Humans;Animals;Male;Mice;Cell Line, Tumor;Female;Molecular Sequence Data;Cell Proliferation / drug effects;Middle Aged;Phylogeny"
+n1-38,Humans;Female;Male;Middle Aged;Adult;Aged;Child;Adolescent;China / epidemiology;Risk Factors
+n1-241,"Humans;Female;Adult;Male;Pregnancy;Animals;Child, Preschool;Risk Factors;Child;Rats"
+n1-50,Humans;Female;Male;Middle Aged;Adult;Aged;Animals;Retrospective Studies;Prognosis;Adolescent
+n1-186,"Humans;Animals;Female;Male;Molecular Sequence Data;Kinetics;Amino Acid Sequence;Child;Sequence Alignment;Child, Preschool"
+n1-306,"Humans;Animals;Female;Adult;Male;Mice;Middle Aged;Aged;Blotting, Western;Real-Time Polymerase Chain Reaction"
+n1-104,Humans;Female;Male;Adult;Young Adult;Pregnancy;Animals;Middle Aged;Aged;Adolescent
+n1-317,"Humans;Female;Male;Middle Aged;Aged;Adult;Treatment Outcome;Animals;Aged, 80 and over;Risk Factors"
+n1-101,"Humans;Female;Male;Aged;Middle Aged;Adult;Risk Factors;Animals;Aged, 80 and over;Cohort Studies"
+n1-132,"Humans;Female;Animals;Male;Cell Line, Tumor;Middle Aged;Mice;Adult;Aged;Cell Line"
+n1-345,"Humans;Female;Male;Middle Aged;Adult;Aged;Adolescent;Young Adult;Aged, 80 and over;Child"
+n1-364,"Animals;Humans;Female;Male;Mice;Adult;Middle Aged;Aged;Disease Models, Animal;Rats"
+n1-39,"Animals;Phylogeny;Plant Diseases / virology*;Genotype;Molecular Sequence Data;Plant Diseases / virology;Base Sequence;Sequence Analysis, DNA;Amino Acid Sequence;Humans"
+n1-146,Animals;Female;Humans;Male;Phylogeny;Adult;Middle Aged;Transcriptome*;Mice;Young Adult
+n1-45,Humans;Male;Female;Adult;Middle Aged;Animals;Aged;Young Adult;Adolescent;Mice
+n1-148,"Animals;Genotype;Brazil;Phylogeny;Ecosystem*;Plant Diseases / genetics*;Polymorphism, Single Nucleotide;Phenotype;Humans;Forests*"
+n1-166,"Humans;Male;Animals;Female;Middle Aged;Adult;Mice;Aged;Mice, Inbred C57BL;Prognosis"
+n1-385,"Humans;Male;Female;Adult;Middle Aged;Aged;Young Adult;Treatment Outcome;Surveys and Questionnaires;Aged, 80 and over"
+n1-202,Humans;Female;Male;Adult;Middle Aged;Aged;Young Adult;Risk Factors;Adolescent;Infant
+n1-203,Humans;Female;Male;Adult;Animals;Middle Aged;Aged;Young Adult;Mice;Adolescent
+n1-212,"Humans;Male;Female;Animals;Middle Aged;Aged;Adult;Mice;Rats;Disease Models, Animal"
+n1-232,"Humans;Female;Male;Adult;Middle Aged;Animals;Mice;Young Adult;Aged;Cell Line, Tumor"
+n1-392,"Animals;Female;Mice;Humans;Male;Mice, Inbred C57BL;Cells, Cultured;RNA, Messenger / genetics;Adult;Cell Proliferation / drug effects"
+n1-209,China;Humans;Biomass;Animals;Female;Male;Ecosystem*;Ecosystem;Soil / chemistry*;Temperature
+n1-220,Humans;Male;Female;Middle Aged;Adult;Animals;Aged;Young Adult;Adolescent;Child
+n1-96,"Humans;Animals;Male;Mice;Female;Cell Line, Tumor;Gene Expression Profiling;Time Factors;Cells, Cultured;Oligonucleotide Array Sequence Analysis"
+n1-310,"Humans;Animals;Male;Molecular Sequence Data;Female;Chromosome Mapping;Mice;Cell Line, Tumor;Phylogeny;Amino Acid Sequence"
+n1-322,"Animals;Male;Female;Rats;Mice;Mice, Inbred C57BL;Synapses / metabolism;Mice, Transgenic;Retinal Ganglion Cells / metabolism;Rats, Sprague-Dawley"
+n1-176,Humans;Male;Female;Adult;Young Adult;Animals;Mice;Pregnancy;Middle Aged;Adolescent
+n1-315,"Animals;Female;Male;Phylogeny;Sequence Analysis, DNA;Molecular Sequence Data;Transcriptome*;Evolution, Molecular;Fish Proteins / genetics*;China"
+n1-274,Humans;Animals;Male;Female;Middle Aged;Adult;Mice;Aged;Adolescent;Rats
+n1-53,"Animals;Humans;Male;Female;Mice;Mutation;Adult;Disease Models, Animal;Middle Aged;Molecular Sequence Data"
+n1-337,"Humans;Animals;Mice;HeLa Cells;Phylogeny;Female;Mice, Inbred C57BL;Phosphorylation;Algorithms;Substrate Specificity"
+n1-341,"Animals;Humans;Mice;Male;Female;Cell Line, Tumor;Rats;Disease Models, Animal;Middle Aged;Cells, Cultured"
+n1-354,"Animals;Humans;Male;Mice;Female;Amino Acid Sequence;Apoptosis / drug effects;Rats;Molecular Sequence Data;Mice, Inbred C57BL"
+n1-352,Humans;Female;Male;Middle Aged;Aged;Adult;Risk Factors;Prognosis;Animals;China
+n1-370,"Humans;Male;Female;Animals;Middle Aged;Aged;Adult;Mice;Cell Line, Tumor;Rats"
+n1-379,"Animals;Male;Humans;Mice;Rats;Female;Rats, Sprague-Dawley;Middle Aged;Cells, Cultured;Mice, Inbred C57BL"
+n1-11,"Humans;Phenotype;Gene Expression Regulation, Plant;Male;Phylogeny;Oryza / growth & development;Gene Expression Profiling;Brassica napus / genetics*;Female;Plant Proteins / metabolism"
+n1-17,Animals;Cattle;Humans;Body Weight;Male;Female;Brazil;Bayes Theorem;Animal Feed / analysis*;Genotype
+n1-396,"Humans;Male;Female;Middle Aged;Aged;Adult;Young Adult;Aged, 80 and over;Animals;Adolescent"
+n1-413,Humans;Female;Male;Middle Aged;Adult;Aged;Animals;China;Young Adult;Adolescent
+n1-359,Humans;Male;Female;Cross-Sectional Studies;Middle Aged;Brazil;Adult;Adolescent;Animals;Child
+n1-213,"Humans;Animals;Male;Female;Mice;Middle Aged;Adult;Mice, Inbred C57BL;Signal Transduction;Aged"
+n1-20,Humans;Male;Female;Adult;Young Adult;Middle Aged;Aged;Adolescent;Biomechanical Phenomena;Time Factors
+n1-380,Humans;Female;Male;Adult;Middle Aged;Young Adult;Adolescent;Cross-Sectional Studies;Aged;Risk Factors
+n1-7,"Humans;Female;Cell Line, Tumor;Middle Aged;Adult;Male;Animals;Aged;Mice;Prognosis"
+n1-342,Humans;Female;Male;Middle Aged;Adult;Animals;Aged;Young Adult;Mice;Adolescent
+n1-85,Humans;Female;Adult;Male;Anticoagulants* / administration & dosage;Anticoagulants* / pharmacokinetics;Aged;Middle Aged;Heparin* / pharmacokinetics;Drug Monitoring / methods*
+n1-327,"Humans;Male;Female;Adult;Middle Aged;Aged;Young Adult;Aged, 80 and over;Animals;Adolescent"
+n1-116,"Humans;Animals;Cell Line, Tumor;Rats, Sprague-Dawley;Rats;Mice;Gene Expression Regulation, Neoplastic;Liver / metabolism;NF-kappa B / metabolism;Cell Line"
+n1-279,"Humans;Male;Female;Middle Aged;Adult;Aged;Animals;Aged, 80 and over;Treatment Outcome;Mice"
+n1-125,"Humans;Male;Animals;Female;Mice;Adult;Cell Line, Tumor;Middle Aged;Rats;Mice, Inbred C57BL"
+n1-128,Humans;Male;Female;Adult;Middle Aged;Young Adult;Substrate Specificity;Cross-Sectional Studies;Magnetic Resonance Imaging;Animals
+n1-423,"Humans;Animals;Mice;Female;Male;Cell Line, Tumor;Cell Line;Adult;Blotting, Western;Swine"
+n1-135,"Ecosystem*;Ecosystem;Biomass;Humans;China;Seasons;Species Specificity;Soil / chemistry*;Forests*;Models, Theoretical"
+n1-152,"Humans;Male;Female;Middle Aged;Aged;Adult;Retrospective Studies;Animals;Aged, 80 and over;Risk Factors"
+n1-88,Animals;Humans;Female;Male;Mice;Rats;Adult;Cell Line;Middle Aged;MicroRNAs / genetics
+n1-240,Humans;Female;Male;Animals;Mice;Middle Aged;Cell Line;Islets of Langerhans / metabolism;Adult;Cytokines / metabolism
+n1-142,"Humans;Animals;Female;Male;Mice;Adolescent;Mexico;Child;Child, Preschool;Case-Control Studies"
+n1-194,"Humans;Male;Female;Adult;Models, Neurological*;Adolescent;Young Adult;Risk-Taking*;Image Enhancement / methods;Mental Recall / physiology*"
+n1-160,"Animals;Humans;Male;Female;Mice;Rats;Middle Aged;Adult;Aged;Cells, Cultured"
+n1-238,"Phylogeny;Molecular Sequence Data;Humans;Gene Expression Regulation, Plant;Animals;Phenotype;Amino Acid Sequence;Gene Expression Profiling;Plant Proteins / genetics*;Chromosome Mapping"
+n1-234,"Humans;Female;Male;Aged;Adult;Middle Aged;Young Adult;Aged, 80 and over;Adolescent;Animals"
+n1-374,"Animals;Humans;Male;Female;Mice;Middle Aged;Aged;Adult;Rats;Mice, Inbred C57BL"
+n1-123,Humans;Female;Male;Adult;Middle Aged;Aged;Animals;Retrospective Studies;Respiratory Function Tests;Adolescent
+n1-249,"Humans;Female;Male;Middle Aged;Adult;Aged;Polymorphism, Single Nucleotide*;Animals;Genotype;Mice"
+n1-303,Animals;Male;Female;Ecosystem*;Ecosystem;Seasons;Temperature;Biodiversity;Humans;Qatar
+n1-192,Humans;Male;Female;Adult;Young Adult;Adolescent;Middle Aged;Surveys and Questionnaires;Child;Social Behavior*
+n1-46,"Humans;Male;Female;Animals;Middle Aged;Adult;Mice;Aged;Case-Control Studies;Cell Line, Tumor"
+n1-269,Humans;Female;Male;Middle Aged;Adult;Iran / epidemiology;Adolescent;Risk Factors;Aged;Young Adult
+n1-292,"Animals;Humans;Male;Mice;Female;Polymorphism, Single Nucleotide;Phylogeny;Cell Line;Mice, Inbred C57BL;Soil / chemistry*"
+n1-208,"Humans;Female;Male;Adult;Adolescent;Child;Child, Preschool;Infant;Middle Aged;Young Adult"
+n1-308,Humans;Female;Case-Control Studies;Genotype;India;Middle Aged;Linkage Disequilibrium;Haplotypes;Alleles;Adult
+n1-405,Male;Humans;Female;Animals;Adult;Mice;Middle Aged;Young Adult;Adolescent;Ethiopia
+n1-421,Humans;Male;Female;Adult;Cross-Sectional Studies;Young Adult;Middle Aged;Adolescent;Biomarkers / blood;Child
+n1-422,"Animals;Mice;Humans;Female;Male;Rats;Rats, Sprague-Dawley;Cell Line;Disease Models, Animal;Cells, Cultured"
+n1-326,"Animals;Humans;Mice;Male;Female;Amino Acid Sequence;Molecular Sequence Data;Protein Binding;Cells, Cultured;Disease Models, Animal"
+n1-113,Humans;Male;Female;Adult;Adolescent;Young Adult;Middle Aged;Child;Reproducibility of Results;Athletic Performance / physiology*
+n1-158,"Phylogeny;Gene Expression Regulation, Plant;Species Specificity;Genotype;Plant Leaves / genetics;Chromosome Mapping;Plant Proteins / genetics*;Amino Acid Sequence;Phenotype;Polymorphism, Single Nucleotide*"
+n1-428,"Humans;Middle Aged;Female;Male;Prognosis;Cell Line, Tumor;Antineoplastic Agents / pharmacology*;Carcinoma, Pancreatic Ductal / pathology*;Epigenesis, Genetic / drug effects*;Topoisomerase I Inhibitors / pharmacology*"
+n1-245,Animals;Humans;Female;Male;Taiwan;Phylogeny;Ecosystem;Biodiversity*;Species Specificity;Temperature
+n1-33,"Animals;Humans;Mice;Blotting, Western;Protein Binding;Female;Cell Line, Tumor;RNA, Messenger / genetics;Reverse Transcriptase Polymerase Chain Reaction;Real-Time Polymerase Chain Reaction"
+n1-67,Male;Middle Aged;Female;Humans;Prospective Studies;Retrospective Studies;Cohort Studies;Length of Stay*;Treatment Outcome;Liver Transplantation / psychology*
+n1-84,Male;Female;Humans;Adult;Time Factors;Middle Aged;Adolescent;Autism Spectrum Disorder / diagnosis;Biomarkers / analysis;Genetic Counseling / statistics & numerical data
+n1-403,"Animals;Humans;Female;Rats;Male;Rats, Sprague-Dawley;Adult;Case-Control Studies;HEK293 Cells;Mice"
+n1-105,"Animals;Mice;Mice, Transgenic;Cell Lineage;Mice, Knockout;Myocytes, Cardiac / pathology;Mice, Inbred C57BL;Perfusion;Cardiomyopathies / enzymology*;Heart / anatomy & histology*"
+n1-112,Humans;Female;Adult;Male;Animals;ROC Curve;Heme / metabolism;Base Sequence;Radioimmunoassay;Pregnancy
+n1-277,"Humans;Female;Animals;Male;Mice;Adult;Cell Survival / drug effects;Cells, Cultured;Middle Aged;Mice, Inbred BALB C"
+n1-162,Animals;Humans;Female;Mice;Male;Phylogeny;Plant Proteins / metabolism;Species Specificity;Base Sequence;Plant Proteins / genetics
+n1-267,"Animals;Mice;Male;Humans;Female;Mice, Inbred C57BL;RNA, Messenger / genetics;Cell Line, Tumor;Mice, Knockout;Cells, Cultured"
+n1-178,"Humans;Female;Cell Line, Tumor;Middle Aged;Male;Animals;Prognosis;Adult;Aged;Mice"
+n1-257,Animals;New Zealand;Soil / chemistry*;China;Seasons;Carbon / analysis*;Nitrogen / analysis*;Phosphorus / analysis*;Temperature;Climate
+n1-199,Male;Humans;Female;Middle Aged;India;Animals;Mice;Aged;Case-Control Studies;3T3-L1 Cells
+n1-206,"Phylogeny;Species Specificity;Ecosystem;Animals;Sequence Analysis, DNA;Phenotype;Ascomycota / genetics*;Biodiversity*;Phylogeography;Lichens / genetics*"
+n1-211,"Humans;Adult;Male;Aged;Middle Aged;Female;Young Adult;Cognitive Behavioral Therapy / methods*;Depression / diagnosis;Stress, Psychological / diagnosis"
+n1-325,"Humans;Male;Female;Adult;Young Adult;Middle Aged;Aged;Electromyography;Surveys and Questionnaires;Muscle, Skeletal / physiology*"
+n1-313,Humans;Female;Male;Middle Aged;Animals;Aged;Adult;Prevalence;Helicobacter Infections / pathology;Young Adult
+n1-242,"Humans;Animals;Mice;HEK293 Cells;Ligands;Signal Transduction / drug effects;Molecular Sequence Data;Receptors, G-Protein-Coupled / chemistry;Receptors, G-Protein-Coupled / metabolism*;Models, Molecular"
+n1-401,"Animals;Ecosystem*;Genetic Variation;Gene Expression Regulation, Plant;Phylogeny;Female;Male;India;Adaptation, Physiological / genetics*;Bayes Theorem"
+n1-265,"Algorithms;Humans;Models, Theoretical;Computer Simulation;Models, Theoretical*;Algorithms*;Male;Young Adult;Neural Networks, Computer*;Software"
+n1-268,"Animals;Rats;Male;Trypanosomiasis, African / parasitology;Humans;Chemokines / blood*;Chemokines / cerebrospinal fluid*;Encephalitis / parasitology*;Interferon-gamma / cerebrospinal fluid;Trypanosomiasis, African / blood*"
+n1-271,Male;Middle Aged;Female;Adult;Humans;Queensland / epidemiology;Retrospective Studies;Geography;Tropical Climate*;Aged
+n1-420,"Phylogeny;Base Sequence;Ecosystem*;Evolution, Molecular;Ecology;Databases, Nucleic Acid*;DNA, Ribosomal Spacer / genetics*;Mycorrhizae / genetics*;Geography*;International Cooperation"
+n1-409,"Humans;Male;Female;Adult;Adolescent;Young Adult;Magnetic Resonance Imaging;Brain / physiology*;Middle Aged;Child, Preschool"
+n1-371,"Humans;Female;Cell Line, Tumor;Male;Middle Aged;Adult;Cell Differentiation / drug effects*;Aged;Prevalence;Case-Control Studies"
+n1-390,"Female;Animals;Humans;CD4-Positive T-Lymphocytes / drug effects;Cannabidiol / adverse effects*;Gene Expression Regulation / drug effects;Biomarkers / metabolism;Rats, Sprague-Dawley;Analgesics / chemistry;Cannabidiol / pharmacology*"
+n1-25,"Humans;Male;Animals;Female;Mice;Cell Line, Tumor;Adult;Middle Aged;Antineoplastic Agents / pharmacology;Aged"
+n1-407,"Substrate Specificity;Models, Molecular;Phylogeny;Kinetics;Animals;Molecular Sequence Data;Recombinant Proteins / metabolism;Protein Conformation;Amino Acid Sequence;Glycoside Hydrolases / metabolism*"
+n1-4,"Animals;Male;Humans;Mice;Rats, Sprague-Dawley;Rats;Cell Line, Tumor;Cell Survival / drug effects;Proto-Oncogene Proteins c-akt / metabolism;Disease Models, Animal"
+n1-22,Humans;Female;Male;Middle Aged;Adult;Aged;Adolescent;Child;Hypertension / complications;Biomarkers / blood
+n1-31,Female;Male;Organ Specificity;Humans;Cytokines / blood;Aged;Middle Aged;Adult;Adiposity / physiology*;Anthropometry
+n1-83,Humans;Male;Middle Aged;Female;Adult;Aged;Oxygen Consumption;Risk Factors;Adolescent;Young Adult
+n1-41,"Male;Humans;Aged;Aged, 80 and over;Cross Infection / economics;Frail Elderly;Long-Term Care* / economics;Pneumonia, Viral / economics;Absenteeism;Coronavirus Infections / economics"
+n1-68,Humans;Plant Extracts* / chemistry;Rhodophyta / chemistry*;Aquatic Organisms / chemistry*;Osteoblasts / cytology;Plant Extracts* / pharmacology;Fetus / metabolism;Fetus / cytology;Osteogenesis / drug effects*;Osteoblasts / metabolism*
+n1-78,Humans;Male;Adult;Female;Middle Aged;Surveys and Questionnaires;Low Back Pain / psychology;Multilingualism*;Young Adult;Sweden
+n1-98,"Humans;Female;Neoplasm Staging;Middle Aged;Adult;Cell Line, Tumor;Proportional Hazards Models;Prognosis;Neoplasm Grading;Aged"
+n1-108,Humans;Male;Young Adult;Female;Adult;Athletic Injuries / etiology*;Japan;Time Factors;Middle Aged;Athletes
+n1-110,Animals;Dietary Supplements;Carps / metabolism*;Carps / growth & development;Fish Diseases / immunology;Diet;Signal Transduction;TOR Serine-Threonine Kinases / metabolism;NF-E2-Related Factor 2 / metabolism;Antioxidants / metabolism
+n1-119,Humans;Male;Female;Social Media*;Financial Support*;Science*;Publishing*;Journal Impact Factor;Faculty* / statistics & numerical data;United States
+n1-124,"Humans;Male;Adult;Young Adult;Female;Physical Exertion / physiology*;Muscle, Skeletal / physiology;Exercise*;Adolescent;Athletes"
+n1-130,"Female;Humans;Male;Aged;Middle Aged;Disability Evaluation;Diabetes Mellitus, Type 2 / physiopathology*;Task Performance and Analysis*;Gait / physiology;Memory"
